@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model file (optional - uncomment to ignore trained model)
+# model.pkl
+
+# Uploaded images
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
