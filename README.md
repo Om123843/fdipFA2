@@ -1,4 +1,4 @@
-# AquaVision – Water Sewage Detection
+# Water Sewage Detection
 
 A full-stack web application that detects sewage contamination using **hybrid ML** (combining image processing + water quality parameters).
 
